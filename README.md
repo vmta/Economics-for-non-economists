@@ -1,12 +1,13 @@
 # Economics-for-non-economists
+Set of quizzes.
 
 ## [COURSERA] (https://www.coursera.org/)
 [Economics for non-economists] (https://www.coursera.org/learn/ekonomika-dlya-neekonomistov/)
 
-- [ ] Week 1
-  - [ ] Quiz
-- [ ] Week 2
-  - [ ] Quiz
+- [x] Week 1
+  - [x] Quiz (9/10) 90%
+- [x] Week 2
+  - [x] Quiz (10/10) 100%
 - [ ] Week 3
   - [ ] Quiz
 - [ ] Week 4
