@@ -8,8 +8,8 @@ Set of quizzes.
   - [x] Quiz (9/10) 90%
 - [x] Week 2
   - [x] Quiz (10/10) 100%
-- [ ] Week 3
-  - [ ] Quiz
+- [x] Week 3
+  - [x] Quiz (10/10) 100%
 - [ ] Week 4
   - [ ] Quiz
 - [ ] Week 5
